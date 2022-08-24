@@ -1,0 +1,3 @@
+﻿  求面积差.c
+D:\c语言\github\2022code\习题 第一章\运算符2\求面积差\求面积差.c(7,1): warning C4305: “初始化”: 从“double”到“float”截断
+  求面积差.vcxproj -> D:\c语言\github\2022code\习题 第一章\运算符2\求面积差\x64\Debug\求面积差.exe
